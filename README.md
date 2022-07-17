@@ -2,7 +2,7 @@
 
 ## Project setup
 
-1. Make sure you have all the environment variables specified [here](./.env.example)
+1. Create `.env` file at the root of the project and add all the environment variables specified [here](./.env.example)
 2. Run `yarn migrate` to setup the latest migrations for the database
 
 ## Running the project
