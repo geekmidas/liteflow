@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["graphile", "graphiql", "inflector", "liteflow", "stringcase", "technanimals"]
+  "cSpell.words": [
+    "graphile",
+    "graphiql",
+    "inflector",
+    "liteflow",
+    "stringcase",
+    "technanimals",
+    "VARCHAR"
+  ]
 }
