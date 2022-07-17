@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest --verbose",
     "prepare": "husky install",
-    "format": "prettier --write \"**/*.{ts,tsx,md,js}\""
+    "format": "prettier --write \"**/*.{ts,tsx,md,js}\"",
+    "start": "postgraphile --enhance-graphiql"
   },
   "repository": {
     "type": "git",
